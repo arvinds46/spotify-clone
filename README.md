@@ -1,2 +1,2 @@
 # spotify-clone
-clone of spotify website
+Clone of spotify App
